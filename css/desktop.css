@@ -1,0 +1,9 @@
+@media screen and (min-width: 1200px) {
+  .mobile-menu-open {
+    display: none;
+  }
+
+  .mobile-menu-header {
+    display: none;
+  }
+}

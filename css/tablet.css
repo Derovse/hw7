@@ -1,0 +1,93 @@
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+  .container {
+    max-width: 768px;
+  }
+  .section {
+    background-image: url(../img/Dark-bg.png), url(../img/hero.tablet.jpg);
+  }
+  .mobile-menu-header {
+    display: none;
+  }
+  .mobile-menu-open {
+    display: none;
+  }
+  .fepicture {
+    display: none;
+  }
+  .section3 {
+    display: none;
+  }
+  .header {
+    padding-top: 10.5px;
+    padding-bottom: 10.5px;
+  }
+  .header-list-contact {
+    margin-left: 119px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px;
+  }
+  .section2-list {
+    flex-wrap: wrap;
+  }
+  .section {
+    padding-bottom: 112px;
+    padding-top: 112px;
+  }
+  .section2 {
+    padding-top: 96px;
+    padding-bottom: 96px;
+  }
+  .section4 {
+    padding-top: 96px;
+    padding-bottom: 104px;
+  }
+  .section4-list {
+    gap: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .customers-list {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .svg-customers {
+    min-width: 168px;
+  }
+  .section5 {
+    padding-bottom: 96px;
+    padding-top: 96px;
+  }
+  .footer-text-box {
+    margin-right: 24px;
+    margin-bottom: 72px;
+  }
+  .footer-media {
+    margin-bottom: 72px;
+    margin-right: 0px;
+  }
+  .footer > .container {
+    width: 600px;
+  }
+  .footer-wrap {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .title2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+  }
+  .section2-paragraph {
+    font-weight: 500;
+    margin-bottom: 72px;
+  }
+  .section2-item {
+    max-width: 356px;
+  }
+}
